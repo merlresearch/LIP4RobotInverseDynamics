@@ -1,0 +1,25 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: .vscode/*
+Copyright: 2024 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: *.pkl
+Copyright: 2024 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: gpr_lib/*
+Copyright: 2023 Alberto Dalla Libera
+License: MIT
+
+Files: gpr_lib/GP_prior/LK/*
+Copyright: 2024 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: simulated_envs/sympybotics/*
+Copyright: 2012, 2013 Cristóvão D. Sousa
+License: BSD-3-Clause
+
+Files: PANDA_MC_test/deep_lagrangian_networks/*
+Copyright: 2020 Lutter
+License: MIT
